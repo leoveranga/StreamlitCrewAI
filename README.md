@@ -22,3 +22,6 @@ For Ollama, start Ollama locally first. The sidebar loads installed models from 
 For OpenAI, enter an API key in the sidebar or set `OPENAI_API_KEY` before launching Streamlit.
 
 Generated files are written to `output_streamlit` by default.
+
+
+video: [https://github.com/leoveranga/StreamlitCrewAI/blob/main/README.md?plain=1](https://youtu.be/59rYgSdE7pk)
