@@ -1,0 +1,4 @@
+crewai[tools]>=0.108.0
+streamlit>=1.36.0
+gradio>=5.22.0
+
